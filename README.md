@@ -1,0 +1,1 @@
+# microservice-storeapp-config
